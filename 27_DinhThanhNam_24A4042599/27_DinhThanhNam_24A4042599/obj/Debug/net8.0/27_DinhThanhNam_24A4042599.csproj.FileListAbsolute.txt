@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\bin\Debug\net8.0\27_DinhThanhNam_24A4042599.exe
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\bin\Debug\net8.0\27_DinhThanhNam_24A4042599.deps.json
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\bin\Debug\net8.0\27_DinhThanhNam_24A4042599.runtimeconfig.json
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\bin\Debug\net8.0\27_DinhThanhNam_24A4042599.dll
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\bin\Debug\net8.0\27_DinhThanhNam_24A4042599.pdb
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\27_DinhThanhNam_24A4042599.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\27_DinhThanhNam_24A4042599.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\27_DinhThanhNam_24A4042599.AssemblyInfo.cs
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\27_DinhThanhNam_24A4042599.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\27_DinhThanhNam_24A4042599.dll
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\refint\27_DinhThanhNam_24A4042599.dll
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\27_DinhThanhNam_24A4042599.pdb
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\27_DinhThanhNam_24A4042599.genruntimeconfig.cache
+C:\Users\Admin\source\repos\27_DinhThanhNam_24A4042599\27_DinhThanhNam_24A4042599\obj\Debug\net8.0\ref\27_DinhThanhNam_24A4042599.dll

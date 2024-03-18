@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\bin\Debug\net8.0\QuanLiThueXe.exe
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\bin\Debug\net8.0\QuanLiThueXe.deps.json
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\bin\Debug\net8.0\QuanLiThueXe.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\bin\Debug\net8.0\QuanLiThueXe.dll
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\bin\Debug\net8.0\QuanLiThueXe.pdb
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\QuanLiThueXe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\QuanLiThueXe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\QuanLiThueXe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\QuanLiThueXe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\QuanLiThueXe.dll
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\refint\QuanLiThueXe.dll
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\QuanLiThueXe.pdb
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\QuanLiThueXe.genruntimeconfig.cache
+C:\Users\Admin\source\repos\QuanLiThueXe\QuanLiThueXe\obj\Debug\net8.0\ref\QuanLiThueXe.dll

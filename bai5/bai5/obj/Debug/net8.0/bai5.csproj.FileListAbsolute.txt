@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\bai5\bai5\bin\Debug\net8.0\bai5.exe
+C:\Users\Admin\source\repos\bai5\bai5\bin\Debug\net8.0\bai5.deps.json
+C:\Users\Admin\source\repos\bai5\bai5\bin\Debug\net8.0\bai5.runtimeconfig.json
+C:\Users\Admin\source\repos\bai5\bai5\bin\Debug\net8.0\bai5.dll
+C:\Users\Admin\source\repos\bai5\bai5\bin\Debug\net8.0\bai5.pdb
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\bai5.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\bai5.AssemblyInfo.cs
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\bai5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\bai5.dll
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\refint\bai5.dll
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\bai5.pdb
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\bai5.genruntimeconfig.cache
+C:\Users\Admin\source\repos\bai5\bai5\obj\Debug\net8.0\ref\bai5.dll
