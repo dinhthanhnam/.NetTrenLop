@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.Form1.resources
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.Properties.Resources.resources
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\bin\Debug\Ktra2_ontap.exe.config
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\bin\Debug\Ktra2_ontap.exe
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\bin\Debug\Ktra2_ontap.pdb
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.exe
+C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.pdb
