@@ -6,6 +6,7 @@ using System.Linq;
 using System.Runtime.Remoting.Contexts;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Ktra2_ontap
 {
@@ -16,9 +17,7 @@ namespace Ktra2_ontap
         public static void Connect()
         {
             //Thiết lập giá trị cho chuỗi kết nối
-            connString = @"Data Source=Admin-PC;Initial Catalog=Ktra2;
-                           Integrated Security=True
-                           ";
+            connString = @"Data Source=ADMIN-PC;Initial Catalog=ktra2;Integrated Security=True";
             Conn = new SqlConnection();         		//Cấp phát đối tượng
             Conn.ConnectionString = connString; 		//Kết nối
             Conn.Open();                        		//Mở kết nối
@@ -34,7 +33,7 @@ namespace Ktra2_ontap
             }
         }
 
-        internal static object GetDataToTable(string sql)
+        public static DataTable GetDataToTable(string sql)
         {
             SqlDataAdapter Mydata = new SqlDataAdapter();	// Khai báo
             // Tạo đối tượng Command thực hiện câu lệnh SELECT        
@@ -46,6 +45,44 @@ namespace Ktra2_ontap
             return table;
 
         }
+        public static bool CheckKey(string sql)
+        {
+            SqlDataAdapter Mydata = new SqlDataAdapter(sql, Functions.Conn);
+            DataTable table = new DataTable();
+            Mydata.Fill(table);
+            if (table.Rows.Count > 0)
+                return true;
+            else
+                return false;
+        }
+        public static void RunSql(string sql)
+        {
+            SqlCommand cmd;		                // Khai báo đối tượng SqlCommand
+            cmd = new SqlCommand();	         // Khởi tạo đối tượng
+            cmd.Connection = Functions.Conn;	  // Gán kết nối
+            cmd.CommandText = sql;			  // Gán câu lệnh SQL
+            try
+            {
+                cmd.ExecuteNonQuery();		  // Thực hiện câu lệnh SQL
+            }
+            catch (System.Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            cmd.Dispose();
+            cmd = null;
+        }
+        public static void FillCombo(string sql, ComboBox cbo, string ma, string ten)
+        {
+            SqlDataAdapter Mydata = new SqlDataAdapter(sql, Functions.Conn);
+            DataTable table = new DataTable();
+            Mydata.Fill(table);
+            cbo.DataSource = table;
+
+            cbo.ValueMember = ma;    // Truong gia tri
+            cbo.DisplayMember = ten;    // Truong hien thi
+        }
+
     }
 
 }

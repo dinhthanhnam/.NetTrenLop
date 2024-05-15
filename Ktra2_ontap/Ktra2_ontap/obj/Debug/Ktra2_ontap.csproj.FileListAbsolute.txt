@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\bin\Debug\Ktra2_ontap.exe
 C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\bin\Debug\Ktra2_ontap.pdb
 C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.exe
 C:\Users\Admin\source\repos\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.pdb
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\bin\Debug\Ktra2_ontap.exe.config
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\bin\Debug\Ktra2_ontap.exe
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\bin\Debug\Ktra2_ontap.pdb
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.csproj.AssemblyReference.cache
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.Form1.resources
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.Properties.Resources.resources
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.csproj.GenerateResource.cache
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.csproj.CoreCompileInputs.cache
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.exe
+E:\HocTap\.nettrenlop\Ktra2_ontap\Ktra2_ontap\obj\Debug\Ktra2_ontap.pdb

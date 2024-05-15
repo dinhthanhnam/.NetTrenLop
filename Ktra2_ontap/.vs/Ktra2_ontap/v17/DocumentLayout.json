@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|e:\\hoctap\\.nettrenlop\\ktra2_ontap\\ktra2_ontap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|solutionrelative:ktra2_ontap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\ktra2_ontap\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|solutionrelative:ktra2_ontap\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\ktra2_ontap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|solutionrelative:ktra2_ontap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\ktra2_ontap\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|solutionrelative:ktra2_ontap\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\ktra2_ontap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE502F9-7FE3-48BB-AF86-51AB0166599D}|Ktra2_ontap\\Ktra2_ontap.csproj|solutionrelative:ktra2_ontap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ktra2_ontap\\Form1.Designer.cs",
+              "ToolTip": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Form1.Designer.cs",
+              "RelativeToolTip": "Ktra2_ontap\\Form1.Designer.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAIAwwNoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:08:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Form1.cs",
+              "RelativeDocumentMoniker": "Ktra2_ontap\\Form1.cs",
+              "ToolTip": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Form1.cs [Design]",
+              "RelativeToolTip": "Ktra2_ontap\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:17:23.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Form1.cs",
+              "RelativeDocumentMoniker": "Ktra2_ontap\\Form1.cs",
+              "ToolTip": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Form1.cs",
+              "RelativeToolTip": "Ktra2_ontap\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwDEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:17:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Functions.cs",
+              "RelativeDocumentMoniker": "Ktra2_ontap\\Functions.cs",
+              "ToolTip": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Functions.cs",
+              "RelativeToolTip": "Ktra2_ontap\\Functions.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:17:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Program.cs",
+              "RelativeDocumentMoniker": "Ktra2_ontap\\Program.cs",
+              "ToolTip": "E:\\HocTap\\.nettrenlop\\Ktra2_ontap\\Ktra2_ontap\\Program.cs",
+              "RelativeToolTip": "Ktra2_ontap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:17:23.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
